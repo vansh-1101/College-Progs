@@ -7,6 +7,12 @@ int main() {
     
     printf("Enter Second Value:=");
     scanf("%d",&b);
+
+    int c;
+
+    c=a+b;
+
+    printf("Sum IS:=",&c)
     
     return 0;
 }
